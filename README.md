@@ -65,9 +65,10 @@ cm_display = metrics.ConfusionMatrixDisplay(confusion_matrix=confusion,display_l
 cm_display.plot()
 ```
 ## Output:
-
+##Accuracy Score and Classification Report:
 ![image](https://github.com/AtchayaSundaramoorthy/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393516/5a9db39f-eed8-4b32-b1d3-93f13e555f40)
 
+##Displaying
 ![image](https://github.com/AtchayaSundaramoorthy/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119393516/05858d16-4772-47c4-83fa-7e49a529845c)
 
 ## Result:
